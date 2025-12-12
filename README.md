@@ -62,12 +62,12 @@ The material is structured into 6 main sessions, covering the evolution from RNN
 If you find this repository useful for your research or educational content, please cite it as follows:
 
 ```
-@misc{self\_attention\_webinar\_2025,  
-  author \= {Lhuqita Fazry},  
-  title \= {Deep Dive Into Legendary Self-Attention Mechanism: Webinar Materials},  
-  year \= {2025},  
-  publisher \= {GitHub},  
-  howpublished \= {\\url{\[https://github.com/lhfazry/legendary-self-attention\](https://github.com/lhfazry/legendary-self-attention)}},  
+@misc{self_attention_webinar_2025,  
+  author = {Lhuqita Fazry},  
+  title = {Deep Dive Into Legendary Self-Attention Mechanism: Webinar Materials},  
+  year = {2025},  
+  publisher = {GitHub},  
+  howpublished = {https://github.com/lhfazry/legendary-self-attention},  
 }
 ```
 
@@ -75,4 +75,4 @@ If you find this repository useful for your research or educational content, ple
 
 If you find this material helpful, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lhuqita-fazry/) or give this repo a ⭐\!
 
-*Created by \[Lhuqita Fazry\]*
+*Created by Lhuqita Fazry*
